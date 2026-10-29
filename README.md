@@ -14,7 +14,7 @@ Tenho 17 anos e estou no 6º semestre do curso Técnico em Informática integrad
 - Atividades acadêmicas: trabalhos e experiências da minha formação
 - Projetos: o que desenvolvi e qual foi a minha participação
 - Feiras e eventos: FeciNOVA 2026 e feira de ciência e tecnologia de 2024
-- Sites desenvolvidos: site de filmes e reviews e este portfólio
+- Sites desenvolvidos: site de filmes e reviews, agenda escolar, galeria de celulares, API de agendamento de salão e este portfólio
 - Habilidades e contato: tecnologias que conheço, e-mail, GitHub e LinkedIn
 
 ## Tecnologias usadas
